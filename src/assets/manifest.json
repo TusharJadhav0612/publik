@@ -1,0 +1,14 @@
+{
+  "name": "Identity Management Solutions!!!",
+  "start_url": "localhost:8081",
+  "description": "A simple demo of Identity Management Auth",
+  "icons": [{
+    "src1": "http://localhost:8080/Identity-Manage.png",
+	"src": "http://localhost:8080/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
+
+
+
